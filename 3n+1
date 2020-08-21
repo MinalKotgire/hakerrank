@@ -1,0 +1,9 @@
+n=int(input("Enter your Number here"))
+P=1while(inputt!=1): 
+if(n%2==0): 
+   n=n/2 
+   p=p+1 
+else: 
+   n=3*n+1
+print(p)
+
